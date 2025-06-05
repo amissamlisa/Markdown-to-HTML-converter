@@ -22,8 +22,9 @@ pip3 install markdown
 
 ## 使い方
 以下のコマンドで Markdown ファイルを HTML に変換できます：
+```
 python3 file-converter.py markdown <入力ファイルパス> <出力ファイルパス>
-
+```
 ## 注意事項
 .md ファイルは UTF-8 で保存されている必要があります。
 Python 3.x が必要です。
